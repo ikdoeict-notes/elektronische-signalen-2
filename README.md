@@ -3,3 +3,4 @@
 bevat:
 
 * notities van de eerste les
+* samenvatting Thomas Poppe
